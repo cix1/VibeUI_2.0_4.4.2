@@ -25,7 +25,7 @@ Vuoi accedere alle impostazioni di avvio/spegnimento pianificato?"</string>
     <string name="silent_mode_silent">Silenzioso</string>
     <string name="silent_mode_vibrate">Vibrazione</string>
     <string name="silent_mode_normal">Normale</string>
-    <string name="silent_mode_outdoor">All'esterno</string>
+    <string name="silent_mode_outdoor">All\'esterno</string>
     <string name="powerOnWarning_alarm_msg">Next Alarm Clock: %1$s</string>
     <string name="powerOnWarning_boot_msg">Next PowerOn: %1$s</string>
     <string name="qreboot_confirm_title">Riavvio veloce</string>
