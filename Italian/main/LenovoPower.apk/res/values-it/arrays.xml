@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="advancedSetting_lowCapacity_value">
+        <item>Meno del 10%</item>
+        <item>Meno del 20%</item>
+        <item>Meno del 30%</item>
+     </string-array>
+     <string-array name="mainMenuChildNameArray1">
+        <item>@string/setttings_screen</item>
+        <item>@string/setttings_app</item>
+        <item>@string/setttings_cut_connect</item>
+        <item>@string/setttings_study</item>
+     </string-array>
+     <string-array name="mainMenuChildNameArray2">
+        <item>@string/settings_consume</item>
+        <item>@string/settings_frozen</item>
+        <item>@string/settings_eye_keeper</item>
+     </string-array>
+     <string-array name="mainMenuChildNameArray3">
+        <item>@string/settings_noti</item>
+        <item>@string/settings_updater</item>
+        <item>@string/settings_about</item>
+     </string-array>
+     <string-array name="mainMenuGroupTitleArray">
+        <item>@string/settings_title</item>
+        <item>@string/settings_title_tools</item>
+        <item>@string/settings_title_set</item>
+     </string-array>
+     <string-array name="mainMenuSmartChildNameArray1">
+        <item>@string/setttings_cut_connect</item>
+        <item>@string/setttings_study</item>
+     </string-array>
+     <string-array name="netWakeup_delay">
+        <item>5 min</item>
+        <item>15 min</item>
+        <item>25 min</item>
+        <item>35 min</item>
+        <item>45 min</item>
+     </string-array>
+     <string-array name="netWakeup_during">
+        <item>1 ora</item>
+        <item>2 ore</item>
+        <item>3 ore</item>
+     </string-array>
+     <string-array name="netWakeup_lasting">
+        <item>5 min</item>
+        <item>15 min</item>
+        <item>30 min</item>
+     </string-array>
+     <string-array name="ringtone_value">
+        <item>@string/ringtone_mute</item>
+        <item>@string/ringtone_vibrate</item>
+        <item>@string/ringtone_ringing</item>
+     </string-array>
+     <string-array name="screen_brightness_entries">
+        <item>Min</item>
+        <item>30%</item>
+        <item>60%</item>
+        <item>Max</item>
+        <item>Auto</item>
+     </string-array>
+     <string-array name="wifi_timeout_entries">
+        <item>1 minuto</item>
+        <item>2 minuti</item>
+        <item>5 minuti</item>
+        <item>10 minuti</item>
+     </string-array>
+</resources>
