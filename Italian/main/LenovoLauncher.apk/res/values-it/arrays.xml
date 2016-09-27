@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="city_oper_items">
+        <item>Imposta come città predefinita</item>
+        <item>Elimina questa città</item>
+     </string-array>
+     <string-array name="pref_gesture_choices">
+        <item>Nessuna</item>
+        <item>Apri menu desktop</item>
+        <item>Mostra app aggiunte di recente</item>
+        <item>Apri barra delle notifiche</item>
+        <item>Icona Trova</item>
+        <item>Schermata di blocco</item>
+     </string-array>
+     <string-array name="pref_gesture_values">
+        <item>none</item>
+        <item>menu</item>
+        <item>recentApp</item>
+        <item>notification</item>
+        <item>Positioning</item>
+        <item>lockscreen</item>
+     </string-array>
+     <string-array name="pref_icon_size_values">
+        <item>57</item>
+        <item>48</item>
+     </string-array>
+     <string-array name="pref_icon_text_size_values">
+        <item>15</item>
+        <item>12</item>
+        <item>10</item>
+     </string-array>
+     <string-array name="pref_slide_effect_choices">
+        <item>Animazione predefinita</item>
+        <item>Rotazione</item>
+        <item>Scavatrice</item>
+        <item>Mulino a vento</item>
+        <item>Cubo</item>
+        <item>Onda sinusoidale</item>
+        <item>Cilindro</item>
+     </string-array>
+     <string-array name="pref_slide_effect_values">
+        <item>NONE</item>
+        <item>ROTATE</item>
+        <item>BULLDOZE</item>
+        <item>WINDMILL</item>
+        <item>CUBE</item>
+        <item>WAVE</item>
+        <item>CYLINDER</item>
+     </string-array>
+     <array name="preview">
+        <item>@drawable/themepreview</item>
+        <item>@drawable/themepreview_1</item>
+     </array>
+</resources>
