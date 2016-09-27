@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <integer-array name="config_virtualKeyVibePatternDown">
+        <item>0</item>
+        <item>10</item>
+        <item>10</item>
+        <item>20</item>
+     </integer-array>
+     <integer-array name="config_virtualKeyVibePatternUp">
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>30</item>
+     </integer-array>
+     <string-array name="emailAddressTypes">
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+     </string-array>
+     <string-array name="imAddressTypes">
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+     </string-array>
+     <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+     </string-array>
+     <string-array name="organizationTypes">
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+     </string-array>
+     <string-array name="phoneTypes">
+        <item>Casa</item>
+        <item>Cellulare</item>
+        <item>Lavoro</item>
+        <item>Fax lavoro</item>
+        <item>Fax casa</item>
+        <item>Cercapersone</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+     </string-array>
+     <string-array name="postalAddressTypes">
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+     </string-array>
+     <array name="preloaded_color_state_lists">
+        <item>@color/primary_text_dark</item>
+        <item>@color/primary_text_dark_disable_only</item>
+        <item>@color/primary_text_dark_nodisable</item>
+        <item>@color/primary_text_disable_only_holo_dark</item>
+        <item>@color/primary_text_disable_only_holo_light</item>
+        <item>@color/primary_text_holo_dark</item>
+        <item>@color/primary_text_holo_light</item>
+        <item>@color/primary_text_light</item>
+        <item>@color/primary_text_light_disable_only</item>
+        <item>@color/primary_text_light_nodisable</item>
+        <item>@color/primary_text_nodisable_holo_dark</item>
+        <item>@color/primary_text_nodisable_holo_light</item>
+        <item>@color/secondary_text_dark</item>
+        <item>@color/secondary_text_dark_nodisable</item>
+        <item>@color/secondary_text_holo_dark</item>
+        <item>@color/secondary_text_holo_light</item>
+        <item>@color/secondary_text_light</item>
+        <item>@color/secondary_text_light_nodisable</item>
+        <item>@color/secondary_text_nodisable_holo_dark</item>
+        <item>@color/secondary_text_nodisable_holo_light</item>
+        <item>@color/secondary_text_nofocus</item>
+        <item>@color/hint_foreground_dark</item>
+        <item>@color/hint_foreground_holo_dark</item>
+        <item>@color/hint_foreground_holo_light</item>
+        <item>@color/hint_foreground_light</item>
+        <item>@color/bright_foreground_light</item>
+        <item>@color/bright_foreground_dark</item>
+        <item>@color/tab_indicator_text</item>
+        <item>#ff000000</item>
+        <item>#00000000</item>
+        <item>#ffffffff</item>
+     </array>
+     <integer-array name="zzzzz_config_autoBrightnessLcdBacklightValues_CinemaProfile">
+        <item>7</item>
+        <item>7</item>
+        <item>9</item>
+        <item>9</item>
+        <item>9</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>13</item>
+        <item>15</item>
+        <item>18</item>
+        <item>20</item>
+        <item>23</item>
+        <item>28</item>
+        <item>30</item>
+        <item>38</item>
+        <item>38</item>
+     </integer-array>
+     <integer-array name="zzzzz_config_autoBrightnessLcdBacklightValues_DaytimeProfile">
+        <item>12</item>
+        <item>41</item>
+        <item>41</item>
+        <item>41</item>
+        <item>41</item>
+        <item>80</item>
+        <item>102</item>
+        <item>129</item>
+        <item>153</item>
+        <item>183</item>
+        <item>205</item>
+        <item>231</item>
+        <item>245</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+     </integer-array>
+     <integer-array name="zzzzz_config_autoBrightnessLcdBacklightValues_IncarProfile">
+        <item>179</item>
+        <item>179</item>
+        <item>179</item>
+        <item>185</item>
+        <item>195</item>
+        <item>204</item>
+        <item>209</item>
+        <item>212</item>
+        <item>219</item>
+        <item>222</item>
+        <item>224</item>
+        <item>224</item>
+        <item>227</item>
+        <item>230</item>
+        <item>235</item>
+        <item>237</item>
+        <item>242</item>
+        <item>250</item>
+        <item>255</item>
+     </integer-array>
+     <integer-array name="zzzzz_config_autoBrightnessLcdBacklightValues_NightProfile">
+        <item>10</item>
+        <item>18</item>
+        <item>26</item>
+        <item>36</item>
+        <item>59</item>
+        <item>80</item>
+        <item>102</item>
+        <item>129</item>
+        <item>153</item>
+        <item>183</item>
+        <item>205</item>
+        <item>231</item>
+        <item>245</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+     </integer-array>
+     <integer-array name="zzzzz_config_autoBrightnessLevels_LUX">
+        <item>5</item>
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+        <item>150</item>
+        <item>200</item>
+        <item>350</item>
+        <item>450</item>
+        <item>550</item>
+        <item>720</item>
+        <item>950</item>
+        <item>1100</item>
+        <item>1500</item>
+        <item>2000</item>
+        <item>3500</item>
+        <item>5600</item>
+        <item>6700</item>
+     </integer-array>
+</resources>
