@@ -6,3 +6,4 @@ uso jBART con
   
  
 aggiungo "-2" ai framework in apktool.yml a LenovoSettings.apk e Teleservice.apk
+rinonimo packake lenovo con com.lenovo.bluetooth al manifest bluetooth.apk
